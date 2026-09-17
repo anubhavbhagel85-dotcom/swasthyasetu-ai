@@ -1,0 +1,68 @@
+export const UI = {
+  en: {
+    tagline: "Symptom guidance you can actually trust",
+    subtitle:
+      "Describe how you're feeling. SwasthyaSetu asks a few careful follow-up questions, then answers with plain-language guidance and the exact health authority it came from.",
+    inputPlaceholder: "Describe your symptom… e.g. \"I have a headache and mild fever\"",
+    send: "Send",
+    verifiedSources: "Verified sources",
+    emergencyNumbers: "Emergency numbers (India)",
+    ambulance: "Ambulance",
+    national: "National emergency",
+    mentalHealth: "Mental health helpline (Tele-MANAS)",
+    newChat: "New conversation",
+    listening: "Listening…",
+    voiceUnsupported: "Voice input isn't supported in this browser",
+    disclaimerShort: "General information only — not a diagnosis.",
+    footerNote:
+      "SwasthyaSetu AI is a hackathon prototype. It does not replace professional medical advice, diagnosis, or treatment.",
+    sourcesPanelTitle: "Where this information comes from",
+    sourcesPanelBody:
+      "Every answer is grounded in a small, curated set of public-health references — never open-web search results. Each is shown with the answer it supports.",
+    remedySourceLabel: "Home remedy source",
+    matchConfidenceLabel: "Match confidence",
+    offlineAnswerTag: "Generated on-device (offline)",
+    offlineBanner: "You're offline — SwasthyaSetu is answering on-device from the cached knowledge base. It will sync once you're back online.",
+    backOnlineBanner: "Back online — this conversation continues on-device; start a new conversation for live answers.",
+    triage: {
+      EMERGENCY: "Emergency — act now",
+      URGENT: "Urgent — see a doctor soon",
+      ROUTINE: "Routine — get it checked if it persists",
+      SELF_CARE: "Self-care — general guidance",
+      NEED_MORE_INFO: "A quick question",
+    },
+  },
+  hi: {
+    tagline: "ऐसी लक्षण जानकारी जिस पर आप भरोसा कर सकें",
+    subtitle:
+      "आप जो महसूस कर रहे हैं वह बताइए। SwasthyaSetu कुछ ज़रूरी सवाल पूछेगा, फिर सरल भाषा में जानकारी और उसका सटीक स्रोत बताएगा।",
+    inputPlaceholder: "अपना लक्षण बताएं… जैसे \"मुझे सिरदर्द और हल्का बुखार है\"",
+    send: "भेजें",
+    verifiedSources: "सत्यापित स्रोत",
+    emergencyNumbers: "आपातकालीन नंबर (भारत)",
+    ambulance: "एम्बुलेंस",
+    national: "राष्ट्रीय आपातकाल",
+    mentalHealth: "मानसिक स्वास्थ्य हेल्पलाइन (Tele-MANAS)",
+    newChat: "नई बातचीत",
+    listening: "सुन रहा हूं…",
+    voiceUnsupported: "इस ब्राउज़र में वॉइस इनपुट उपलब्ध नहीं है",
+    disclaimerShort: "केवल सामान्य जानकारी — यह निदान नहीं है।",
+    footerNote:
+      "SwasthyaSetu AI एक हैकाथॉन प्रोटोटाइप है। यह डॉक्टर की सलाह, निदान या इलाज का विकल्प नहीं है।",
+    sourcesPanelTitle: "यह जानकारी कहां से आती है",
+    sourcesPanelBody:
+      "हर उत्तर सार्वजनिक-स्वास्थ्य संदर्भों के एक छोटे, चुने हुए समूह पर आधारित है — कभी भी सामान्य वेब खोज पर नहीं। हर स्रोत उसी उत्तर के साथ दिखाया जाता है जिसे वह समर्थन देता है।",
+    remedySourceLabel: "घरेलू उपाय का स्रोत",
+    matchConfidenceLabel: "मिलान भरोसा",
+    offlineAnswerTag: "डिवाइस पर तैयार (ऑफ़लाइन)",
+    offlineBanner: "आप ऑफ़लाइन हैं — SwasthyaSetu कैश्ड जानकारी से डिवाइस पर ही उत्तर दे रहा है। इंटरनेट आने पर यह अपने आप सिंक हो जाएगा।",
+    backOnlineBanner: "इंटरनेट वापस आ गया — यह बातचीत अभी डिवाइस पर ही जारी रहेगी; नई जानकारी के लिए नई बातचीत शुरू करें।",
+    triage: {
+      EMERGENCY: "आपातकाल — अभी कार्रवाई करें",
+      URGENT: "अत्यावश्यक — जल्द डॉक्टर से मिलें",
+      ROUTINE: "सामान्य जांच — बना रहे तो डॉक्टर को दिखाएं",
+      SELF_CARE: "स्व-देखभाल — सामान्य सलाह",
+      NEED_MORE_INFO: "एक छोटा सवाल",
+    },
+  },
+};

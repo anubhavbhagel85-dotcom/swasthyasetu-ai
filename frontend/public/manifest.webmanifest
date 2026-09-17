@@ -1,0 +1,12 @@
+{
+  "name": "SwasthyaSetu AI",
+  "short_name": "SwasthyaSetu",
+  "description": "Multilingual symptom guidance backed by verified medical sources — works offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F0",
+  "theme_color": "#1E2A44",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "version": "1.1.0",
+  "last_reviewed": "2026-09-16",
+  "disclaimer": {
+    "en": "SwasthyaSetu AI shares general health information for common, everyday symptoms. It does not diagnose conditions, prescribe treatment, or replace a qualified doctor. If you are ever unsure, seek professional medical care.",
+    "hi": "SwasthyaSetu AI आम और रोज़मर्रा के लक्षणों के बारे में सामान्य स्वास्थ्य जानकारी देता है। यह किसी बीमारी की पुष्टि नहीं करता, इलाज नहीं बताता, और डॉक्टर की जगह नहीं ले सकता। अगर आपको कोई शंका हो, तो कृपया डॉक्टर से संपर्क करें।"
+  },
+  "entries": [
+    {
+      "id": "fever",
+      "keywords": [
+        "fever",
+        "temperature",
+        "bukhar",
+        "chills",
+        "high temperature",
+        "बुखार",
+        "ज्वर"
+      ],
+      "title": {
+        "en": "Fever",
+        "hi": "बुखार"
+      },
+      "overview": {
+        "en": "Fever is the body's natural response to infection or inflammation, usually a temperature above 100.4°F (38°C). Most fevers in otherwise healthy adults and older children are short-lived and settle on their own within a few days.",
+        "hi": "बुखार शरीर का संक्रमण या सूजन के प्रति एक स्वाभाविक प्रतिक्रिया है, आमतौर पर तापमान 100.4°F (38°C) से ऊपर होने पर। स्वस्थ वयस्कों और बड़े बच्चों में अधिकतर बुखार कुछ ही दिनों में अपने आप ठीक हो जाता है।"
+      },
+      "self_care": {
+        "en": [
+          "Rest and drink plenty of fluids (water, ORS, coconut water).",
+          "Wear light clothing and keep the room comfortably cool.",
+          "Paracetamol can be used as directed on the label to ease discomfort.",
+          "Monitor temperature twice a day and note how long the fever lasts."
+        ],
+        "hi": [
+          "आराम करें और खूब तरल पदार्थ लें (पानी, ओआरएस, नारियल पानी)।",
+          "हल्के कपड़े पहनें और कमरे को आरामदायक ठंडा रखें।",
+          "असुविधा कम करने के लिए लेबल पर बताए अनुसार पैरासिटामोल ले सकते हैं।",
+          "दिन में दो बार तापमान जाँचें और यह नोट करें कि बुखार कितने समय से है।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Fever above 104°F (40°C)",
+          "Fever lasting more than 3 days",
+          "Stiff neck, severe headache, or confusion",
+          "Difficulty breathing",
+          "Fits/convulsions",
+          "Fever in an infant under 3 months"
+        ],
+        "hi": [
+          "104°F (40°C) से अधिक बुखार",
+          "3 दिन से अधिक समय तक बुखार रहना",
+          "गर्दन में अकड़न, तेज़ सिरदर्द या भ्रम",
+          "साँस लेने में तकलीफ़",
+          "दौरे पड़ना",
+          "3 महीने से कम उम्र के शिशु को बुखार"
+        ]
+      },
+      "sources": [
+        {
+          "name": "World Health Organization – Fact sheets",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        },
+        {
+          "name": "National Health Portal India (MoHFW)",
+          "url": "https://www.nhp.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "home_remedies": {
+        "en": [
+          "Tulsi (holy basil) and ginger kadha (herbal decoction), taken warm.",
+          "A lukewarm sponge bath can help the body cool down.",
+          "Giloy (Tinospora cordifolia) juice is traditionally used in Ayurveda to support general wellness during fever."
+        ],
+        "hi": [
+          "तुलसी और अदरक का काढ़ा, गुनगुना करके लें।",
+          "गुनगुने पानी से स्पंजिंग शरीर को ठंडा करने में मदद कर सकती है।",
+          "गिलोय का रस आयुर्वेद में बुखार के दौरान सामान्य स्वास्थ्य सहायता के लिए पारंपरिक रूप से उपयोग किया जाता है।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    },
+    {
+      "id": "cough_cold",
+      "keywords": [
+        "cough",
+        "cold",
+        "sore throat",
+        "khansi",
+        "zukam",
+        "sneezing",
+        "खांसी",
+        "जुकाम",
+        "गला खराब"
+      ],
+      "title": {
+        "en": "Cough, Cold & Sore Throat",
+        "hi": "खांसी, जुकाम और गले में खराश"
+      },
+      "overview": {
+        "en": "Most coughs and colds are caused by common viral infections of the upper airway and improve within 7–10 days without antibiotics.",
+        "hi": "अधिकतर खांसी और जुकाम ऊपरी श्वसन तंत्र के सामान्य वायरल संक्रमण के कारण होते हैं और बिना एंटीबायोटिक के 7–10 दिनों में ठीक हो जाते हैं।"
+      },
+      "self_care": {
+        "en": [
+          "Warm fluids, honey and ginger tea, and steam inhalation can soothe the throat.",
+          "Warm salt-water gargles a few times a day.",
+          "Rest your voice and avoid smoke or dust.",
+          "Use a clean humidifier or sit in a steamy bathroom if the air is dry."
+        ],
+        "hi": [
+          "गर्म तरल पदार्थ, शहद-अदरक की चाय और भाप लेने से गले को आराम मिलता है।",
+          "दिन में कई बार गुनगुने नमक के पानी से गरारे करें।",
+          "आवाज़ को आराम दें और धुएं या धूल से बचें।",
+          "यदि हवा शुष्क है तो साफ ह्यूमिडिफायर का उपयोग करें या भाप वाले बाथरूम में बैठें।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Breathlessness or fast breathing",
+          "Chest pain with cough",
+          "Coughing up blood",
+          "Symptoms lasting beyond 3 weeks",
+          "Bluish lips or face",
+          "High fever with cough in a child"
+        ],
+        "hi": [
+          "सांस फूलना या तेज़ सांस लेना",
+          "खांसी के साथ सीने में दर्द",
+          "खांसी में खून आना",
+          "3 हफ्तों से अधिक समय तक लक्षण रहना",
+          "होंठ या चेहरा नीला पड़ना",
+          "बच्चे में खांसी के साथ तेज़ बुखार"
+        ]
+      },
+      "sources": [
+        {
+          "name": "NHS – Health A to Z",
+          "url": "https://www.nhs.uk/conditions/",
+          "type": "UK NHS"
+        },
+        {
+          "name": "National Health Portal India (MoHFW)",
+          "url": "https://www.nhp.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "home_remedies": {
+        "en": [
+          "Turmeric milk (haldi doodh) before bed, a well-known Ayurvedic home remedy.",
+          "Herbal tea with tulsi, cinnamon, black pepper, and dry ginger.",
+          "Steam inhalation with a few crushed ajwain (carom) seeds or mint leaves."
+        ],
+        "hi": [
+          "सोने से पहले हल्दी वाला दूध, एक जाना-पहचाना आयुर्वेदिक घरेलू उपाय।",
+          "तुलसी, दालचीनी, काली मिर्च और सोंठ की हर्बल चाय।",
+          "कुचले हुए अजवाइन या पुदीने की पत्तियों के साथ भाप लेना।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    },
+    {
+      "id": "headache",
+      "keywords": [
+        "headache",
+        "migraine",
+        "sar dard",
+        "head pain",
+        "सिरदर्द",
+        "माइग्रेन"
+      ],
+      "title": {
+        "en": "Headache",
+        "hi": "सिरदर्द"
+      },
+      "overview": {
+        "en": "Most headaches are tension-type or mild migraine, often linked to stress, poor sleep, dehydration, or long screen time, and settle with rest and simple measures.",
+        "hi": "अधिकतर सिरदर्द तनाव-जनित या हल्का माइग्रेन होता है, जो अक्सर तनाव, नींद की कमी, पानी की कमी या लंबे समय तक स्क्रीन देखने से जुड़ा होता है और आराम व सामान्य उपायों से ठीक हो जाता है।"
+      },
+      "self_care": {
+        "en": [
+          "Rest in a quiet, dimly lit room.",
+          "Drink water — mild dehydration is a common trigger.",
+          "Gently massage the neck and shoulders.",
+          "A regular sleep schedule and reduced screen breaks help prevent recurrence."
+        ],
+        "hi": [
+          "शांत और हल्की रोशनी वाले कमरे में आराम करें।",
+          "पानी पिएं — हल्की डिहाइड्रेशन एक आम कारण है।",
+          "गर्दन और कंधों की हल्की मालिश करें।",
+          "नियमित नींद और स्क्रीन ब्रेक से दोबारा होने की संभावना कम होती है।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Sudden, worst-ever headache",
+          "Headache with fever and stiff neck",
+          "Headache after a head injury",
+          "New weakness, numbness, or trouble speaking",
+          "Vision changes",
+          "Headache that wakes you from sleep or worsens with coughing"
+        ],
+        "hi": [
+          "अचानक, अब तक का सबसे तेज़ सिरदर्द",
+          "बुखार और गर्दन में अकड़न के साथ सिरदर्द",
+          "सिर की चोट के बाद सिरदर्द",
+          "नई कमजोरी, सुन्नपन या बोलने में दिक्कत",
+          "नज़र में बदलाव",
+          "ऐसा सिरदर्द जो नींद से जगा दे या खांसने से बढ़े"
+        ]
+      },
+      "sources": [
+        {
+          "name": "NHS – Health A to Z",
+          "url": "https://www.nhs.uk/conditions/",
+          "type": "UK NHS"
+        },
+        {
+          "name": "World Health Organization – Fact sheets",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        }
+      ],
+      "home_remedies": {
+        "en": [
+          "A gentle head and temple massage with a couple of drops of clove or peppermint oil.",
+          "Applying a paste of sandalwood (chandan) on the forehead is a traditional cooling remedy."
+        ],
+        "hi": [
+          "लौंग या पुदीने के तेल की कुछ बूंदों से सिर और कनपटी की हल्की मालिश।",
+          "माथे पर चंदन का लेप लगाना एक पारंपरिक ठंडक देने वाला उपाय है।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    },
+    {
+      "id": "stomach_diarrhea",
+      "keywords": [
+        "stomach pain",
+        "diarrhea",
+        "loose motion",
+        "vomiting",
+        "pet dard",
+        "dast",
+        "पेट दर्द",
+        "दस्त",
+        "उल्टी"
+      ],
+      "title": {
+        "en": "Stomach Pain, Diarrhoea & Vomiting",
+        "hi": "पेट दर्द, दस्त और उल्टी"
+      },
+      "overview": {
+        "en": "Short episodes of loose motion, vomiting, or stomach cramps are usually caused by mild infections or something eaten, and the biggest early risk is dehydration rather than the illness itself.",
+        "hi": "दस्त, उल्टी या पेट में ऐंठन के छोटे दौर आमतौर पर हल्के संक्रमण या खाने की किसी चीज़ से होते हैं, और शुरुआत में सबसे बड़ा खतरा बीमारी से ज़्यादा शरीर में पानी की कमी (डिहाइड्रेशन) होता है।"
+      },
+      "self_care": {
+        "en": [
+          "Sip Oral Rehydration Solution (ORS) or clean water frequently, in small amounts.",
+          "Eat light, easily digestible food (rice, banana, curd) once vomiting settles.",
+          "Avoid oily, spicy, or roadside food until fully recovered.",
+          "Wash hands frequently to avoid spreading infection."
+        ],
+        "hi": [
+          "थोड़ी-थोड़ी मात्रा में बार-बार ओआरएस या साफ पानी पिएं।",
+          "उल्टी थमने के बाद हल्का, आसानी से पचने वाला भोजन लें (चावल, केला, दही)।",
+          "पूरी तरह ठीक होने तक तेल-मसाले वाला या बाहर का खाना न लें।",
+          "संक्रमण फैलने से बचाने के लिए बार-बार हाथ धोएं।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Signs of dehydration: very little urine, dizziness, dry mouth, sunken eyes",
+          "Blood in stool or vomit",
+          "Severe, constant abdominal pain",
+          "High fever with stomach pain",
+          "Symptoms lasting more than 2 days, or in an infant/elderly person"
+        ],
+        "hi": [
+          "डिहाइड्रेशन के लक्षण: बहुत कम पेशाब, चक्कर आना, मुंह सूखना, आंखें धंसना",
+          "मल या उल्टी में खून आना",
+          "पेट में तेज़, लगातार दर्द",
+          "पेट दर्द के साथ तेज़ बुखार",
+          "2 दिन से अधिक लक्षण रहना, या शिशु/बुज़ुर्ग में लक्षण होना"
+        ]
+      },
+      "sources": [
+        {
+          "name": "WHO – Diarrhoeal disease fact sheet",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        },
+        {
+          "name": "National Health Portal India (MoHFW)",
+          "url": "https://www.nhp.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "home_remedies": {
+        "en": [
+          "Cumin (jeera) water, made by boiling roasted cumin seeds in water.",
+          "Buttermilk (chaas) with a pinch of roasted cumin and rock salt.",
+          "Pomegranate juice is traditionally used to support digestion after an upset stomach."
+        ],
+        "hi": [
+          "भुने जीरे को पानी में उबालकर बनाया गया जीरा पानी।",
+          "भुने जीरे और सेंधा नमक के साथ छाछ।",
+          "पेट खराब होने के बाद पाचन में सहायता के लिए पारंपरिक रूप से अनार का रस उपयोग किया जाता है।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    },
+    {
+      "id": "chest_pain",
+      "keywords": [
+        "chest pain",
+        "seene mein dard",
+        "chest tightness",
+        "सीने में दर्द",
+        "छाती में दर्द"
+      ],
+      "title": {
+        "en": "Chest Pain",
+        "hi": "सीने में दर्द"
+      },
+      "overview": {
+        "en": "Chest pain has many causes ranging from muscle strain and acidity to serious heart or lung problems. Because it can signal a medical emergency, it is treated with caution rather than general self-care advice.",
+        "hi": "सीने में दर्द के कई कारण हो सकते हैं — मांसपेशियों में खिंचाव और एसिडिटी से लेकर गंभीर हृदय या फेफड़ों की समस्या तक। क्योंकि यह एक आपातकालीन स्थिति का संकेत हो सकता है, इसे सामान्य सलाह के बजाय सावधानी से देखा जाता है।"
+      },
+      "self_care": {
+        "en": [
+          "Only if a doctor has already told you this is non-cardiac (e.g., acidity or muscle strain), gentle rest and antacids as advised may help.",
+          "Otherwise, treat new or unexplained chest pain as a reason to get prompt medical assessment rather than home care."
+        ],
+        "hi": [
+          "केवल तभी जब डॉक्टर पहले ही बता चुके हों कि यह हृदय से संबंधित नहीं है (जैसे एसिडिटी या मांसपेशियों में खिंचाव), हल्का आराम और सलाह अनुसार एंटासिड मदद कर सकते हैं।",
+          "अन्यथा, नए या अस्पष्ट सीने के दर्द को घरेलू उपचार के बजाय तुरंत डॉक्टरी जांच का कारण मानें।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Pressure, squeezing, or heaviness in the chest",
+          "Pain spreading to the arm, jaw, neck, or back",
+          "Chest pain with breathlessness, sweating, or nausea",
+          "Chest pain with fainting or a racing/irregular heartbeat",
+          "Any chest pain in a person with known heart disease, diabetes, or high blood pressure"
+        ],
+        "hi": [
+          "सीने में दबाव, जकड़न या भारीपन",
+          "दर्द का बांह, जबड़े, गर्दन या पीठ तक फैलना",
+          "सांस फूलने, पसीना आने या जी मिचलाने के साथ सीने में दर्द",
+          "बेहोशी या तेज़/अनियमित धड़कन के साथ सीने में दर्द",
+          "हृदय रोग, डायबिटीज़ या हाई ब्लड प्रेशर वाले व्यक्ति में किसी भी तरह का सीने का दर्द"
+        ]
+      },
+      "sources": [
+        {
+          "name": "NHS – Health A to Z",
+          "url": "https://www.nhs.uk/conditions/",
+          "type": "UK NHS"
+        },
+        {
+          "name": "WHO – Cardiovascular diseases fact sheet",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        }
+      ],
+      "always_urgent": true,
+      "home_remedies": null
+    },
+    {
+      "id": "breathing_difficulty",
+      "keywords": [
+        "breathing difficulty",
+        "shortness of breath",
+        "saans lene mein takleef",
+        "wheezing",
+        "सांस लेने में तकलीफ",
+        "सांस फूलना"
+      ],
+      "title": {
+        "en": "Breathing Difficulty",
+        "hi": "सांस लेने में तकलीफ"
+      },
+      "overview": {
+        "en": "New or worsening difficulty breathing is always treated as a potential emergency symptom, since it can point to problems with the lungs, heart, or airway.",
+        "hi": "सांस लेने में नई या बढ़ती हुई तकलीफ को हमेशा एक संभावित आपातकालीन लक्षण माना जाता है, क्योंकि यह फेफड़ों, हृदय या श्वास नली से जुड़ी समस्या का संकेत हो सकता है।"
+      },
+      "self_care": {
+        "en": [
+          "Sit upright, loosen tight clothing, and try to stay calm.",
+          "If you have a prescribed inhaler for asthma, use it as directed.",
+          "This is not a symptom to manage with home remedies alone — arrange medical care promptly."
+        ],
+        "hi": [
+          "सीधे बैठें, तंग कपड़े ढीले करें और शांत रहने की कोशिश करें।",
+          "अगर अस्थमा के लिए डॉक्टर का बताया इनहेलर है, तो निर्देशानुसार उपयोग करें।",
+          "यह ऐसा लक्षण नहीं है जिसे केवल घरेलू उपायों से संभाला जाए — जल्द से जल्द चिकित्सा सहायता लें।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Severe breathlessness or gasping for air",
+          "Bluish lips, tongue, or fingertips",
+          "Breathlessness while at rest",
+          "Breathlessness with chest pain or confusion",
+          "Child with chest indrawing or grunting while breathing"
+        ],
+        "hi": [
+          "गंभीर सांस फूलना या हांफना",
+          "होंठ, जीभ या उंगलियों का नीला पड़ना",
+          "आराम की स्थिति में भी सांस फूलना",
+          "सीने में दर्द या भ्रम के साथ सांस फूलना",
+          "बच्चे में सांस लेते समय सीना धंसना या घुरघुराहट होना"
+        ]
+      },
+      "sources": [
+        {
+          "name": "WHO – Fact sheets",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        },
+        {
+          "name": "NHS – Health A to Z",
+          "url": "https://www.nhs.uk/conditions/",
+          "type": "UK NHS"
+        }
+      ],
+      "always_urgent": true,
+      "home_remedies": null
+    },
+    {
+      "id": "skin_rash",
+      "keywords": [
+        "rash",
+        "skin allergy",
+        "itching",
+        "khujli",
+        "chakatte",
+        "खुजली",
+        "त्वचा पर दाने",
+        "चकत्ते"
+      ],
+      "title": {
+        "en": "Skin Rash & Itching",
+        "hi": "त्वचा पर दाने और खुजली"
+      },
+      "overview": {
+        "en": "Mild rashes are commonly caused by allergies, heat, insect bites, or minor infections, and many settle with simple care within a few days.",
+        "hi": "हल्के दाने आमतौर पर एलर्जी, गर्मी, कीड़े के काटने या मामूली संक्रमण से होते हैं और कई मामलों में कुछ दिनों में सामान्य देखभाल से ठीक हो जाते हैं।"
+      },
+      "self_care": {
+        "en": [
+          "Keep the area clean and avoid scratching.",
+          "Wear loose, breathable cotton clothing.",
+          "A cool compress can ease itching and irritation.",
+          "Avoid any soap, food, or product you suspect triggered it."
+        ],
+        "hi": [
+          "त्वचा को साफ रखें और खुजलाने से बचें।",
+          "ढीले और सूती कपड़े पहनें।",
+          "ठंडी सिकाई खुजली और जलन को कम कर सकती है।",
+          "जिस साबुन, खाने या उत्पाद पर शक हो, उससे बचें।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Rash spreading quickly with fever",
+          "Swelling of lips, face, or throat",
+          "Difficulty breathing or swallowing along with rash",
+          "Painful blistering or peeling skin",
+          "Rash that looks like bruising and does not fade when pressed"
+        ],
+        "hi": [
+          "बुखार के साथ तेज़ी से फैलते दाने",
+          "होंठ, चेहरे या गले में सूजन",
+          "दानों के साथ सांस लेने या निगलने में तकलीफ",
+          "दर्दनाक छाले या त्वचा का उतरना",
+          "ऐसे दाने जो चोट जैसे दिखें और दबाने पर रंग न बदलें"
+        ]
+      },
+      "sources": [
+        {
+          "name": "NHS – Health A to Z",
+          "url": "https://www.nhs.uk/conditions/",
+          "type": "UK NHS"
+        },
+        {
+          "name": "National Health Portal India (MoHFW)",
+          "url": "https://www.nhp.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "home_remedies": {
+        "en": [
+          "Neem leaves boiled in water, cooled, and used to gently wash the affected area.",
+          "Pure aloe vera gel applied to soothe irritation.",
+          "Coconut oil to relieve dryness once the acute irritation has settled."
+        ],
+        "hi": [
+          "नीम की पत्तियों को पानी में उबालकर, ठंडा करके प्रभावित जगह को धीरे से धोने के लिए उपयोग करें।",
+          "जलन कम करने के लिए शुद्ध एलोवेरा जेल लगाएं।",
+          "तीव्र जलन कम होने के बाद रूखेपन से राहत के लिए नारियल तेल।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    },
+    {
+      "id": "fatigue_bodyache",
+      "keywords": [
+        "fatigue",
+        "weakness",
+        "body ache",
+        "tiredness",
+        "kamzori",
+        "थकान",
+        "कमजोरी",
+        "बदन दर्द"
+      ],
+      "title": {
+        "en": "Fatigue & Body Ache",
+        "hi": "थकान और बदन दर्द"
+      },
+      "overview": {
+        "en": "Occasional tiredness and body ache are often linked to poor sleep, dehydration, stress, or a mild viral illness, and improve with rest and basic care.",
+        "hi": "कभी-कभार होने वाली थकान और बदन दर्द अक्सर नींद की कमी, पानी की कमी, तनाव या हल्के वायरल संक्रमण से जुड़े होते हैं और आराम व सामान्य देखभाल से ठीक हो जाते हैं।"
+      },
+      "self_care": {
+        "en": [
+          "Prioritise 7–9 hours of sleep and stay hydrated.",
+          "Eat balanced meals; avoid skipping meals.",
+          "Light stretching or a short walk can ease muscle stiffness.",
+          "Track how long the tiredness has lasted, since a couple of days is different from a couple of weeks."
+        ],
+        "hi": [
+          "7–9 घंटे की नींद को प्राथमिकता दें और पानी खूब पिएं।",
+          "संतुलित भोजन करें; भोजन छोड़ने से बचें।",
+          "हल्की स्ट्रेचिंग या छोटी सैर मांसपेशियों की जकड़न को कम कर सकती है।",
+          "यह नोट करें कि थकान कितने समय से है, क्योंकि कुछ दिनों और कुछ हफ्तों में फ़र्क होता है।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Fatigue lasting more than 2 weeks despite rest",
+          "Unexplained weight loss",
+          "Fainting or severe dizziness",
+          "Fatigue with chest pain or breathlessness",
+          "Fatigue with yellowing of eyes/skin or dark urine"
+        ],
+        "hi": [
+          "आराम के बावजूद 2 हफ्तों से अधिक थकान रहना",
+          "बिना किसी कारण वज़न कम होना",
+          "बेहोशी या तेज़ चक्कर आना",
+          "सीने में दर्द या सांस फूलने के साथ थकान",
+          "आंखों/त्वचा का पीला पड़ना या पेशाब का रंग गहरा होना"
+        ]
+      },
+      "sources": [
+        {
+          "name": "NHS – Health A to Z",
+          "url": "https://www.nhs.uk/conditions/",
+          "type": "UK NHS"
+        },
+        {
+          "name": "World Health Organization – Fact sheets",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        }
+      ],
+      "home_remedies": {
+        "en": [
+          "A warm sesame or mustard oil self-massage before bathing is a traditional Ayurvedic practice for body ache.",
+          "Ashwagandha is traditionally used in Ayurveda to support general energy and wellness — check with a doctor before starting it, especially if you take other medication."
+        ],
+        "hi": [
+          "नहाने से पहले गुनगुने तिल या सरसों के तेल की मालिश बदन दर्द के लिए एक पारंपरिक आयुर्वेदिक अभ्यास है।",
+          "अश्वगंधा का उपयोग आयुर्वेद में सामान्य ऊर्जा और स्वास्थ्य सहायता के लिए पारंपरिक रूप से किया जाता है — इसे शुरू करने से पहले, खासकर अगर आप अन्य दवाएं ले रहे हैं, डॉक्टर से सलाह लें।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    },
+    {
+      "id": "minor_injury",
+      "keywords": [
+        "cut",
+        "wound",
+        "burn",
+        "sprain",
+        "injury",
+        "chot",
+        "जलना",
+        "मोच",
+        "चोट",
+        "घाव"
+      ],
+      "title": {
+        "en": "Minor Cuts, Burns & Sprains",
+        "hi": "छोटी चोट, जलना और मोच"
+      },
+      "overview": {
+        "en": "Small cuts, minor burns, and mild sprains from everyday accidents can usually be cared for at home with basic first aid.",
+        "hi": "रोज़मर्रा की दुर्घटनाओं से होने वाली छोटी कटन, मामूली जलन और हल्की मोच को आमतौर पर घर पर सामान्य प्राथमिक उपचार से संभाला जा सकता है।"
+      },
+      "self_care": {
+        "en": [
+          "Cuts: wash gently with clean water, apply an antiseptic, and cover with a clean bandage.",
+          "Burns: cool under running tap water for 10–20 minutes; do not apply ice, toothpaste, or oil.",
+          "Sprains: Rest, Ice, Compression, Elevation (RICE) for the first 24–48 hours.",
+          "Check that tetanus vaccination is up to date for any wound involving dirt or metal."
+        ],
+        "hi": [
+          "कटन: साफ पानी से हल्के से धोएं, एंटीसेप्टिक लगाएं और साफ पट्टी से ढकें।",
+          "जलना: 10–20 मिनट तक बहते नल के पानी से ठंडा करें; बर्फ, टूथपेस्ट या तेल न लगाएं।",
+          "मोच: पहले 24–48 घंटों में आराम, बर्फ, पट्टी और अंग को ऊपर रखें (RICE)।",
+          "मिट्टी या धातु से लगे घाव में टिटनेस का टीका अद्यतन है या नहीं, यह जांच लें।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Deep or gaping wound, or bleeding that does not stop with pressure",
+          "Burn that is large, deep, or on the face/hands/genitals",
+          "Visible bone deformity or inability to bear weight after injury",
+          "Signs of infection: increasing redness, pus, warmth, or fever",
+          "Any injury from an electric shock or chemical"
+        ],
+        "hi": [
+          "गहरा या खुला घाव, या दबाव देने पर भी खून न रुकना",
+          "बड़ी, गहरी या चेहरे/हाथ/जननांग पर जलन",
+          "चोट के बाद हड्डी टेढ़ी दिखना या वज़न न सह पाना",
+          "संक्रमण के लक्षण: बढ़ती लालिमा, पस, गर्माहट या बुखार",
+          "बिजली के झटके या रसायन से लगी कोई भी चोट"
+        ]
+      },
+      "sources": [
+        {
+          "name": "NHS – Health A to Z",
+          "url": "https://www.nhs.uk/conditions/",
+          "type": "UK NHS"
+        },
+        {
+          "name": "WHO – Injury and violence fact sheets",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        }
+      ],
+      "home_remedies": {
+        "en": [
+          "For minor closed bruises (not open cuts), a turmeric-and-warm-milk paste is a traditional supportive remedy.",
+          "For open cuts and wounds, stick to the clean-water-and-antiseptic guidance above — traditional pastes should not be applied directly to open wounds."
+        ],
+        "hi": [
+          "मामूली बंद चोट (खुले घाव नहीं) के लिए, हल्दी और गुनगुने दूध का लेप एक पारंपरिक सहायक उपाय है।",
+          "खुले घाव और कटन के लिए, ऊपर बताई साफ पानी और एंटीसेप्टिक की सलाह पर ही टिके रहें — पारंपरिक लेप सीधे खुले घाव पर नहीं लगाना चाहिए।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    },
+    {
+      "id": "stress_anxiety",
+      "keywords": [
+        "stress",
+        "anxiety",
+        "worry",
+        "tension",
+        "chinta",
+        "तनाव",
+        "चिंता",
+        "घबराहट"
+      ],
+      "title": {
+        "en": "Stress, Anxiety & Low Mood",
+        "hi": "तनाव, चिंता और उदासी"
+      },
+      "overview": {
+        "en": "Everyday stress and occasional worry are a normal part of life. Simple coping habits often help, though ongoing distress deserves proper support, not just self-help.",
+        "hi": "रोज़मर्रा का तनाव और कभी-कभार चिंता होना जीवन का सामान्य हिस्सा है। सामान्य आदतें अक्सर मदद करती हैं, लेकिन लगातार परेशानी के लिए उचित सहायता ज़रूरी है, सिर्फ खुद की कोशिश काफी नहीं।"
+      },
+      "self_care": {
+        "en": [
+          "Slow, deep breathing or a short walk can ease acute worry.",
+          "Keep a regular sleep and meal routine.",
+          "Talk to someone you trust about what is on your mind.",
+          "Limit continuous news or social media consumption if it increases anxiety."
+        ],
+        "hi": [
+          "धीमी, गहरी सांस लेना या थोड़ी देर टहलना तुरंत की घबराहट को कम कर सकता है।",
+          "नींद और भोजन का समय नियमित रखें।",
+          "जो मन में चल रहा है, उसे किसी भरोसेमंद व्यक्ति से साझा करें।",
+          "अगर समाचार या सोशल मीडिया चिंता बढ़ाते हैं, तो उनका उपयोग सीमित करें।"
+        ]
+      },
+      "red_flags": {
+        "en": [
+          "Thoughts of harming yourself or others",
+          "Inability to carry out daily activities for an extended period",
+          "Panic attacks with chest pain or breathlessness",
+          "Using alcohol or substances to cope",
+          "Feeling hopeless most days for more than two weeks"
+        ],
+        "hi": [
+          "खुद को या किसी और को नुकसान पहुंचाने के विचार आना",
+          "लंबे समय तक रोज़मर्रा के काम कर पाने में असमर्थता",
+          "सीने में दर्द या सांस फूलने के साथ पैनिक अटैक",
+          "स्थिति से निपटने के लिए शराब या नशे का सहारा लेना",
+          "दो हफ्तों से अधिक समय तक ज़्यादातर दिन निराश महसूस करना"
+        ]
+      },
+      "sources": [
+        {
+          "name": "WHO – Mental health fact sheets",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "type": "WHO"
+        },
+        {
+          "name": "National Health Portal India (MoHFW)",
+          "url": "https://www.nhp.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "crisis_note": {
+        "en": "If you are thinking about suicide or self-harm, please reach out right now to the Government of India's Tele-MANAS helpline on 14416 (24x7, toll-free) or go to your nearest emergency department. You do not have to go through this alone.",
+        "hi": "अगर आपके मन में आत्महत्या या खुद को नुकसान पहुंचाने के विचार आ रहे हैं, तो कृपया अभी भारत सरकार की Tele-MANAS हेल्पलाइन 14416 (24x7, टोल-फ्री) पर संपर्क करें या नज़दीकी अस्पताल के आपातकालीन विभाग में जाएं। आपको यह अकेले नहीं सहना है।"
+      },
+      "home_remedies": {
+        "en": [
+          "Pranayama (breathing exercises) and short meditation sessions, as promoted by the Ministry of AYUSH's yoga guidance.",
+          "Brahmi is traditionally used in Ayurveda to support calm and mental clarity — check with a doctor before starting it."
+        ],
+        "hi": [
+          "आयुष मंत्रालय के योग मार्गदर्शन में बताए गए प्राणायाम और छोटी ध्यान सत्र।",
+          "ब्राह्मी का उपयोग आयुर्वेद में शांति और मानसिक स्पष्टता को सहायता देने के लिए पारंपरिक रूप से किया जाता है — इसे शुरू करने से पहले डॉक्टर से सलाह लें।"
+        ]
+      },
+      "remedy_sources": [
+        {
+          "name": "Ministry of AYUSH, Government of India",
+          "url": "https://www.ayush.gov.in/",
+          "type": "Government of India"
+        }
+      ],
+      "remedy_caution": {
+        "en": "These are traditional, supportive home measures, not a treatment or a substitute for medical care. Avoid starting any herbal remedy during pregnancy, for infants/young children, or alongside other medication without checking with a doctor first.",
+        "hi": "ये पारंपरिक, सहायक घरेलू उपाय हैं, न कि इलाज या डॉक्टरी देखभाल का विकल्प। गर्भावस्था में, शिशुओं/छोटे बच्चों के लिए, या अन्य दवाओं के साथ किसी भी हर्बल उपाय को शुरू करने से पहले डॉक्टर से जरूर पूछें।"
+      }
+    }
+  ]
+}

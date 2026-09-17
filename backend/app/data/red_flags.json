@@ -1,0 +1,67 @@
+{
+  "emergency_patterns": [
+    {
+      "id": "breathing_emergency",
+      "patterns": ["can't breathe", "cannot breathe", "not able to breathe", "gasping", "turning blue", "saans nahi aa rahi", "सांस नहीं आ रही", "नीला पड़ना"],
+      "message": {
+        "en": "Severe breathing difficulty can be life-threatening.",
+        "hi": "सांस लेने में गंभीर तकलीफ जानलेवा हो सकती है।"
+      }
+    },
+    {
+      "id": "chest_pain_emergency",
+      "patterns": ["chest pain", "heart attack", "seene mein dard", "chest pressure", "सीने में दर्द", "दिल का दौरा"],
+      "message": {
+        "en": "Chest pain, pressure, or suspected heart attack symptoms need immediate medical evaluation.",
+        "hi": "सीने में दर्द, दबाव या दिल के दौरे जैसे लक्षणों की तुरंत चिकित्सीय जांच ज़रूरी है।"
+      }
+    },
+    {
+      "id": "stroke_signs",
+      "patterns": ["face drooping", "slurred speech", "one side weakness", "sudden numbness", "chehra tedha", "बोलने में लड़खड़ाहट", "चेहरा टेढ़ा"],
+      "message": {
+        "en": "Sudden facial drooping, slurred speech, or one-sided weakness can be signs of a stroke — every minute matters.",
+        "hi": "अचानक चेहरे का टेढ़ा होना, बोलने में लड़खड़ाहट या एक तरफ की कमजोरी स्ट्रोक के संकेत हो सकते हैं — हर मिनट महत्वपूर्ण है।"
+      }
+    },
+    {
+      "id": "unconscious_seizure",
+      "patterns": ["unconscious", "not responding", "seizure", "convulsion", "behosh", "daura", "बेहोश", "दौरा", "मिर्गी"],
+      "message": {
+        "en": "Loss of consciousness or a seizure needs emergency care right away.",
+        "hi": "बेहोशी या दौरा पड़ने पर तुरंत आपातकालीन सहायता की आवश्यकता है।"
+      }
+    },
+    {
+      "id": "severe_bleeding",
+      "patterns": ["heavy bleeding", "won't stop bleeding", "bleeding heavily", "khoon nahi ruk raha", "बहुत खून बह रहा", "खून नहीं रुक रहा"],
+      "message": {
+        "en": "Bleeding that will not stop with firm pressure is a medical emergency.",
+        "hi": "दबाव देने पर भी न रुकने वाला खून बहना एक आपातकालीन स्थिति है।"
+      }
+    },
+    {
+      "id": "self_harm",
+      "patterns": ["suicide", "kill myself", "end my life", "harm myself", "khudkushi", "khud ko nuksan", "आत्महत्या", "खुद को नुकसान"],
+      "message": {
+        "en": "If you are thinking about suicide or self-harm, please contact Tele-MANAS on 14416 (24x7, toll-free) right now or go to your nearest emergency department.",
+        "hi": "अगर आपके मन में आत्महत्या या खुद को नुकसान पहुंचाने के विचार आ रहे हैं, तो कृपया अभी Tele-MANAS हेल्पलाइन 14416 (24x7, टोल-फ्री) पर संपर्क करें या नज़दीकी अस्पताल के आपातकालीन विभाग में जाएं।"
+      },
+      "is_crisis": true
+    },
+    {
+      "id": "infant_danger",
+      "patterns": ["newborn fever", "baby not feeding", "infant lethargic", "shishu bukhar", "नवजात बुखार", "बच्चा दूध नहीं पी रहा"],
+      "message": {
+        "en": "Fever or poor feeding in a very young infant needs prompt medical attention.",
+        "hi": "बहुत छोटे शिशु में बुखार या दूध न पीना तुरंत डॉक्टरी ध्यान की मांग करता है।"
+      }
+    }
+  ],
+  "emergency_numbers": {
+    "india_general": "112",
+    "india_ambulance": "108",
+    "india_mental_health_telemanas": "14416",
+    "india_women_helpline": "181"
+  }
+}
